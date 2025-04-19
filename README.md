@@ -1,6 +1,8 @@
 # OfflinePasswordKeeper
 A Python-based offline password manager that securely stores and generates strong passwords.
 
+
+
 ✨ Features
 Random password generation (uppercase, lowercase, digits, special chars)
 
@@ -11,6 +13,8 @@ Intuitive terminal interface
 SQLite database support
 
 Password strength visualization
+
+
 
 🛠️ Installation
 Prerequisites
